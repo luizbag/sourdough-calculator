@@ -1,5 +1,5 @@
 from sourcalc.core import Recipe
-from sourcalc.classes import Ingredient, IngredientKind
+from sourcalc.dataclasses import Ingredient, IngredientKind
 
 class TestRecipe:
     def test_init_recipe(self):

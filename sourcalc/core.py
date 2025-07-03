@@ -1,5 +1,3 @@
-from sourcalc.classes import Ingredient, IngredientKind
-
 class Recipe():
     def __init__(self):
         self.ingredients = []
